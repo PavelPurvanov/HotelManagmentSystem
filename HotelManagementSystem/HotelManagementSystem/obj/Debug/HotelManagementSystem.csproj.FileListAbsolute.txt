@@ -1,0 +1,27 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.clients_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.employees_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.choose_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.reservations_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.rooms_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.login_form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\TSP C# KYRSOV PROEKT\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Try_Form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.clients_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.employees_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.choose_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.login_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.reservations_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.rooms_form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
