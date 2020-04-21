@@ -25,3 +25,5 @@ C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManageme
 C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.reservations_form.resources
 C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.rooms_form.resources
 C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\GitHub\Нова папка\HotelManagmentSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\Tony\Documents\GitHub\Нова папка\HotelManagmentSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
